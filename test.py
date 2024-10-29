@@ -1,2 +1,2 @@
-import func from print_test
+from print_test import func
 func()
